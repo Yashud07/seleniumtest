@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="81" started-at="2018-03-25T13:56:11Z" finished-at="2018-03-25T13:56:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="81" started-at="2018-03-25T13:56:11Z" finished-at="2018-03-25T13:56:11Z">
+      <class name="seleniumtest.linksTest">
+        <test-method status="PASS" signature="alllinks()[pri:0, instance:seleniumtest.linksTest@224edc67]" name="alllinks" duration-ms="20" started-at="2018-03-25T19:26:11Z" finished-at="2018-03-25T19:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alllinks -->
+      </class> <!-- seleniumtest.linksTest -->
+      <class name="seleniumtest.pageTest">
+        <test-method status="PASS" signature="allpages()[pri:0, instance:seleniumtest.pageTest@d8355a8]" name="allpages" duration-ms="6" started-at="2018-03-25T19:26:11Z" finished-at="2018-03-25T19:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allpages -->
+      </class> <!-- seleniumtest.pageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
